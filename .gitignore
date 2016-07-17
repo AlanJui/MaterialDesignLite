@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+*~
+.DS_Store
+*.vpp~1
+Thumbs.db
+*.vpp~*
+.idea/
+node_modules/
+npm-debug.log
+build/
+vendor/
+typings/
+app/**/*.js
+app/**/*.js.map
